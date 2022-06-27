@@ -10,3 +10,5 @@ Create free account in https://admin.tago.io/
 Follow Instructions Here to import a demo app: https://github.com/tago-io/analysis-kickstarter
 
 Waiting for access to CloudShare Instance to link to tago demo app. . . .
+
+Setting up on local machine, needs a lot of resources for integration to Filecoin or maybe I'm doing it wrong
